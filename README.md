@@ -13,3 +13,14 @@ Computer Science Student
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
+## ☀️ GitHub
+
+![](https://nirzak-streak-stats.vercel.app/?user=salenakha&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salenakha&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=salenakha&icon=7&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
