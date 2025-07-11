@@ -1,4 +1,4 @@
-# Hi, I'm Salena!👋 
+# Hi, I'm Salena!
 
 Computer Science Student
 
@@ -18,9 +18,3 @@ Computer Science Student
 
 ![](https://nirzak-streak-stats.vercel.app/?user=salenakha&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salenakha&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=salenakha&icon=7&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
