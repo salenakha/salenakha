@@ -1,6 +1,6 @@
-# Hi, I'm Salena!
+# Hi, I'm Salena! 👋 
 
-I'm a second-year Computer Science student at Northeastern University interested in software and AI/ML applications.
+I'm a second-year Computer Science student at Northeastern University looking for opportunities in software and AI/ML applications.
 
 Feel free to reach out!
 
